@@ -52,3 +52,11 @@ button[disabled] {
   opacity: 0.5;
   cursor: not-allowed;
 }
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 0 auto;
+  width: 300px;
+}
